@@ -48,11 +48,11 @@ the gradlew.bat instead of gradlew.
 Here are the items we would like to implement in the API.  Feel free to tackle as many (or few) items as you have time for.
 This is not an ordered list in any way and you should be able to complete most of these tasks independently of the others.
 
-1. Implement a create gadget endpoint in the controller layer.
-1. Implement a find all gadgets endpoint in the controller layer.
-1. Return associated gadgets with widgets in the controller layer.
-1. Rather than returning a list of widgets, we would like to return a paged response from the find all widgets endpoint.
-1. Optionally write tests for the above tasks.
+- [x] Implement a create gadget endpoint in the controller layer.
+- [x] Implement a find all gadgets endpoint in the controller layer.
+- [x] Return associated gadgets with widgets in the controller layer.
+- [x] Rather than returning a list of widgets, we would like to return a paged response from the find all widgets endpoint.
+- [x] Optionally write tests for the above tasks.
 
 ## General information
 
